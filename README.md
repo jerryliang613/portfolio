@@ -1,2 +1,0 @@
-# portfolio
-scss portfolio mockup
